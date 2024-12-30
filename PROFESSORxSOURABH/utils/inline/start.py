@@ -26,12 +26,12 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["S_B_4"], web_app=WebAppInfo(url=config.PROFESSOR)),
-            InlineKeyboardButton(text=_["S_B_2"], web_app=WebAppInfo(url=config.PROFESSOR)),
+            InlineKeyboardButton(text=_["S_B_4"], web_app=WebAppInfo(url=config.PROFESSORPAY)),
+            InlineKeyboardButton(text=_["S_B_2"], web_app=WebAppInfo(url=config.PROFESSORSTATUS)),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_7"], web_app=WebAppInfo(url=config.PROFESSOR)),
-            InlineKeyboardButton(text=_["S_B_5"], web_app=WebAppInfo(url=config.PROFESSOR)),
+            InlineKeyboardButton(text=_["S_B_7"], web_app=WebAppInfo(url=config.PROFESSORBOTS)),
+            InlineKeyboardButton(text=_["S_B_10"], web_app=WebAppInfo(url=config.PROFESSORSMM)),
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], web_app=WebAppInfo(url=config.PROFESSOR)),
