@@ -30,7 +30,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], web_app=WebAppInfo(url=config.PROFESSOR)),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_5"], web_app=WebAppInfo(url=config.PROFESSOR)),
+            InlineKeyboardButton(text=_["S_B_7"], web_app=WebAppInfo(url=config.PROFESSOR)),
             InlineKeyboardButton(text=_["S_B_5"], web_app=WebAppInfo(url=config.PROFESSOR)),
         ],
         [
