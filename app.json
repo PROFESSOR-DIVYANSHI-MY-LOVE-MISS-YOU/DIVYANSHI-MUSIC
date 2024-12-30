@@ -13,12 +13,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "25504446",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "47db27cde56c3e4690e244e6de10f919",
         "required": true
       },
       "BOT_TOKEN": {
@@ -28,12 +28,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://SourabhProfessor:SourabhProfessor@cluster0.a0bz4ht.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "7400823450",
         "required": true
       },
       "STRING_SESSION": {
@@ -53,7 +53,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot or assistant and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001951276489",
         "required": true
       }
     },
