@@ -83,6 +83,10 @@ GIT_TOKEN = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PROFESSOr_modz")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+cvDG1UXzslA0MTJl")
 PROFESSOR = getenv("PROFESSOR", "https://professor.org.in")
+PROFESSORPAY = getenv("PROFESSORPAY", "https://professor.org.in/payment")
+PROFESSORSTATUS = getenv("PROFESSORSTATUS", "https://professor.org.in/stories")
+PROFESSORBOTS = getenv("PROFESSORBOTS", "https://professor.org.in/bots")
+PROFESSORSMM = getenv("PROFESSORSMM", "https://smm.professor.org.in")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
