@@ -83,10 +83,6 @@ GIT_TOKEN = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PROFESSOr_modz")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+cvDG1UXzslA0MTJl")
 PROFESSOR = getenv("PROFESSOR", "https://professor.org.in")
-PROFESSORRR = getenv("PROFESSORRR", "https://professor.org.in/payment")
-PROFESSORSTATUS = getenv("PROFESSORSTATUS", "https://professor.org.in/stories")
-PROFESSORBOTS = getenv("PROFESSORBOTS", "https://professor.org.in/bots")
-PROFESSORSMM = getenv("PROFESSORSMM", "https://smm.professor.org.in")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -104,6 +100,8 @@ AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
+RRR = getenv("RRR", "https://professor.org.in/payment")
+STATUS = getenv("STATUS", "https://professor.org.in/stories")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
@@ -111,6 +109,8 @@ SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "99999
 # ---------------------------------------------------------------------------------
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "709e1a2969664491b58200860623ef19")
+BOTS = getenv("BOTS", "https://professor.org.in/bots")
+SMM = getenv("SMM", "https://smm.professor.org.in")
 # ----------------------------------------------------------------------------------
 
 
