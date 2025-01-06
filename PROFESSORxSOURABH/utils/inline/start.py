@@ -25,13 +25,10 @@ def private_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
+        [InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/{app.username}?startchannel=true")],
         [
-            InlineKeyboardButton(text=_["S_B_11"], web_app=WebAppInfo(url=config.RRR)),
-            InlineKeyboardButton(text=_["S_B_12"], web_app=WebAppInfo(url=config.STATUS)),
-        ],
-        [
-            InlineKeyboardButton(text=_["S_B_13"], web_app=WebAppInfo(url=config.BOTS)),
-            InlineKeyboardButton(text=_["S_B_14"], web_app=WebAppInfo(url=config.SMM)),
+            InlineKeyboardButton(text=_["S_B_10"], url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], web_app=WebAppInfo(url=config.PROFESSOR)),
